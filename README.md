@@ -1,4 +1,3 @@
 # ansible-config-mgt
 just my readme file ext
-ikechukwu is the owner
-dec 24th 
+ikechukwu is the owne
